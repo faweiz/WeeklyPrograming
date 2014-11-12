@@ -1,4 +1,5 @@
 //C语言：每周1程序02: Data Types
+//https://github.com/faweiz/
 #include <stdio.h>
 int main(){
 	printf("size for int %d\n",sizeof(int));
