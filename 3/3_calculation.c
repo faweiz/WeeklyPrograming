@@ -11,7 +11,7 @@ int main(){
 	e = a / b;
 	printf("Sum is %d\n",l);
 	printf("Subtraction is %d\n",o);
-	printf("Mutilation is %d\n",v);
+	printf("Multiplication is %d\n",v);
 	printf("Division is %d\n",e);
 	//double calculation
 	w = c + d;
@@ -21,7 +21,7 @@ int main(){
 	printf("\n");
 	printf("Sum is %.2f\n",w);
 	printf("Subtraction is %.2f\n",x);
-	printf("Mutilation is %.2f\n",y);
+	printf("Multiplication is %.2f\n",y);
 	printf("Division is %.2f\n",z);
 	return 0;
 }
