@@ -18,8 +18,10 @@ int main(){
 	printf("A*B = %d\n",v);
 	printf("A/B = %d\n",e);
 	printf("A%%B = %d\n",r); //use %% to print % sign!
-	printf("A++ = %d (Increments)\n",a++);
-	printf("--B = %d (Decrements)\n",--b);
+	printf("a++ = %d (Increments)\n",a++);
+	printf("A = %d\n",a);
+	printf("--b = %d (Decrements)\n",--b);
+	printf("B = %d\n\n",b);
 	
 	float c,d,w,x,y,z;
 	printf("\n---Double Calculation---\n");
