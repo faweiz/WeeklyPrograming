@@ -1,4 +1,10 @@
-//C:Weekly programming 04: Relational/Logical Operator (If else) 
+用C实现的爱情宣言：
+
+如果你在我身边，我会娶你；如果有来生，我要娶你；如果你走过我身旁，我一定不会错过你。
+
+如果上天能够给我一个再来一次的机会，我会对那个女孩子说三个字：我爱你。如果非要在这份爱上加上一个期限，我希望是……一万年
+
+//C语言：每周1程序04: 如果...或者...
 //https://github.com/faweiz
 #include <stdio.h>
 int main(){
