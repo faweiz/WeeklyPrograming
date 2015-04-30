@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430418935 source:c:\users\fawei_000\box sync\electronics 电子工程师\weeklyprograming\8_prime number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
