@@ -4,9 +4,6 @@
 // https://www.linkedin.com/in/faweiz
 // Draw a Love Heart with Pattern
 
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
