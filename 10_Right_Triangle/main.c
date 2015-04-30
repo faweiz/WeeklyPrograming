@@ -1,4 +1,3 @@
-// C:Weekly programming 08:Prime number
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
