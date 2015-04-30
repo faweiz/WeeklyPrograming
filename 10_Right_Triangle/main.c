@@ -1,3 +1,4 @@
+// C:Weekly programming 10:Right Triangle
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
