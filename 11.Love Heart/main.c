@@ -9,13 +9,13 @@
 
 int main()
 {
-    float x,y,a,result;
+    float x,y,z,result;
     for(y=1.5f;y>-1.5f;y-=0.1f)
     {
         for(x=-1.5f;x<1.5f;x+=0.05f)
         {
-            a = x*x + y*y - 1;
-            result = a*a*a - x*x * y*y*y;
+            z = x*x + y*y - 1;
+            result = z*z*z - x*x * y*y*y;
             // Method 1:
            //putchar(result <= 0.0f ? '*' : ' ');
             // Method 2:
