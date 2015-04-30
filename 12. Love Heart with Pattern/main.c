@@ -1,8 +1,6 @@
-// C:Weekly programming 12: Love Heart with Pattern
-// https://github.com/faweiz
-// https://portfolium.com/faweiz
-// https://www.linkedin.com/in/faweiz
-// Draw a Love Heart with Pattern
+
+
+
 
 #include <stdio.h>
 #include <stdlib.h>
