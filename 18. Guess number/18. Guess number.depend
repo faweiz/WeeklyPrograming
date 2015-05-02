@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1430584689 source:c:\users\fawei_000\box sync\electronics 电子工程师\week_programing\weeklyprogramming\weeklyprograming\18. guess number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
