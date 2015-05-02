@@ -1,5 +1,8 @@
 //C:Weekly programming 03: Arithmetic Operator
-//https://github.com/faweiz
+// https://github.com/faweiz
+// https://portfolium.com/faweiz
+// https://www.linkedin.com/in/faweiz
+
 #include <stdio.h>
 int main(){
 	int a,b,l,o,v,e,r;
