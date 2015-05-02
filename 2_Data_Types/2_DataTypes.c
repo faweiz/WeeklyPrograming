@@ -1,5 +1,9 @@
-//C:Weekly programming02: Data Types
-//https://github.com/faweiz
+// C:Weekly programming 02: Data Types
+// https://github.com/faweiz
+// https://portfolium.com/faweiz
+// https://www.linkedin.com/in/faweiz
+// Data size of C type
+
 #include <stdio.h>
 int main(){
 	char a;
