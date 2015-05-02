@@ -1,5 +1,8 @@
-//C:Weekly programming 04: Relational/Logical Operator (If else) 
-//https://github.com/faweiz
+// C:Weekly programming 04: Relational/Logical Operator (If else) 
+// https://github.com/faweiz
+// https://portfolium.com/faweiz
+// https://www.linkedin.com/in/faweiz
+
 #include <stdio.h>
 int main(){
 	int a,b;
