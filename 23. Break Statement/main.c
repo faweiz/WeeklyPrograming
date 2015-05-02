@@ -2,6 +2,8 @@
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
+// Designer: Fawei Zhang
+// Date: 5/1/2015
 // The Break statement can used to jump out of a while, do, or for loop
 
 #include <stdio.h>
