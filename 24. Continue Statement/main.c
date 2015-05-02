@@ -13,7 +13,7 @@
 
 int main()
 {
-    int n = 0;
+    int n;
     for(;;)
     {
         printf("Enter a number (enter 0 to stop): ");
