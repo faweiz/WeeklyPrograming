@@ -1,4 +1,4 @@
-//C:Weekly programming 03: Arithmetic Operator
+// C:Weekly programming 03: Arithmetic Operator
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
