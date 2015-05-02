@@ -7,8 +7,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/*
-// Factorial program in c using While loop
+////////// Factorial program in c using While loop //////////
 int main()
 {
     int num;
@@ -30,11 +29,11 @@ int main()
     }
     return 0;
 }
-// End of Factorial program in c using While loop
-*/
+////////////////////////////////////////////////////////////
+
 
 /*
-// Factorial program in c using For loop
+////////// Factorial program in c using For loop //////////
 int main()
 {
     int num;
@@ -49,11 +48,11 @@ int main()
     printf("%d!=%d\n",num,fact);
     return 0;
 }
-// End of Factorial program in c using For loop
+////////////////////////////////////////////////////////////
 */
 
 /*
-// Factorial program in c using function
+////////// Factorial program in c using function //////////
 long factorial(int); // need to declare the function first
 int main()
 {
@@ -81,10 +80,11 @@ long factorial(int number)
     }
     return result;
 }
-// End of Factorial program in c using function
+////////////////////////////////////////////////////////////
 */
 
-// Factorial program in c using recursion
+/*
+////////// Factorial program in c using recursion //////////
 long factorial(int); // need to declare the function first
 int main()
 {
@@ -112,8 +112,8 @@ long factorial(int number)
         return (number*factorial(number-1)); // recurse over and over again, until number = 0;
     }
 }
-// End of Factorial program in c using recursion
-
+////////////////////////////////////////////////////////////
+*/
 
 
 
