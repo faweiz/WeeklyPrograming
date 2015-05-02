@@ -23,6 +23,7 @@ int main()
                 printf("%d cubed is %d\n",n,n*n*n);
                 continue; // It Is entered value is 0, the "continue" will jump to before the end of the loop
             }
+    // "continue" statement will jump to here if the enter value is "0", and then continue
     }
 
     return 0;
