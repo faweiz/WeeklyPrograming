@@ -1,4 +1,4 @@
-// C:Weekly programming 08:Prime number
+// C:Weekly programming 07:9*9
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
@@ -10,12 +10,12 @@
 int main()
 {
     int i,j,result;
-    for (i = 0; i<=10; i++)
+    for (i = 1; i<=9; i++)
     {
-        for(j = 0; j<=10; j++)
+        for(j = 1; j<=9; j++)
         {
             result = i*j;
-            printf("%d * %d = %-3d \n",i,j,result); // %-3d means left align, 3 spaces
+            printf("%4d",result);
         }
         printf("\n"); //skip a line
     }
