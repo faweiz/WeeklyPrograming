@@ -3,7 +3,7 @@
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
 // Designer: Fawei Zhang
-// Date: 5/6/2015
+// Date: 5/7/2015
 // This program add, subtract, multiple, divide and Transpose in 2D Array Matrices
 
 #include <stdio.h>
