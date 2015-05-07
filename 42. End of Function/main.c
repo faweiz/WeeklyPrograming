@@ -28,6 +28,6 @@ int main()
     printf("Come to here, After return! \n");
     test_exit(); // the exit function
     printf("Come to here, After exit! \n");  /*as see on screen-shot that the program is no run to this point!
-    see screen-shot at */
+    see screen-shot at https://github.com/faweiz/WeeklyPrograming/blob/master/42.%20End%20of%20Function/Capture.JPG */
     return 0;
 }
