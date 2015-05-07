@@ -19,7 +19,7 @@ How it work: First, we assume that minimum element occurs at the beginning of ar
 
 int main()
 {
-    int array[50],min,size,i,location=1;
+    int array[50],min,size,i,location;
     printf("Please enter the number of elements in array: ");
     scanf("%d",&size);
     if(size > 50 )
@@ -45,6 +45,6 @@ int main()
             location = i;
         }
     }
-    printf("Minimum value is %d at location array[%d]",min,location);
+    printf("Minimum value is %d at array[%d]",min,location);
     return 0;
 }
