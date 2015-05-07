@@ -2,6 +2,8 @@
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
+// Designer: Fawei Zhang
+// Date: 5/6/2015
 // Print diamond pattern of starts
 
 #include <stdio.h>
