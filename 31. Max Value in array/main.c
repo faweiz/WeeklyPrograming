@@ -18,7 +18,7 @@ How it work: First, we assume that maximum element occurs at the beginning of ar
 
 int main()
 {
-    int array[50],max,size,i,location=1;
+    int array[50],max,size,i,location;
 
     printf("Enter the numbers of elements in array: ");
     scanf("%d",&size);
@@ -46,7 +46,7 @@ int main()
                 location = i; // Find the location of index of this max value
             }
         }
-        printf("Maximum value is %d at location array[%d]", max, location);
+        printf("Maximum value is %d at array[%d]", max, location);
 
     return 0;
 }
