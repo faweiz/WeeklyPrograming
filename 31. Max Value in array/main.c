@@ -34,6 +34,7 @@ int main()
 
         for(i=0;i<size;i++)
         {
+            printf("array[%d]: ",i);
             scanf("%d",&array[i]);
         }
         max = array[0]; // First,we assume that maximum element occurs at the beginning of array
@@ -42,10 +43,10 @@ int main()
             if(array[i]>max)
             {
                 max = array[i]; // Find the max value in array one by one
-                location = i+1; // Find the location of index of this max value
+                location = i; // Find the location of index of this max value
             }
         }
-        printf("Maximum value for these number is %d at location %d", max, location);
+        printf("Maximum value is %d at location array[%d]", max, location);
 
     return 0;
 }
