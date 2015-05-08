@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1431064102 source:c:\users\fawei_000\box sync\electronics 电子工程师\week_programing\weeklyprogramming\weeklyprograming\44. is prime function\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
