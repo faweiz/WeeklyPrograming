@@ -4,7 +4,7 @@
 // https://www.linkedin.com/in/faweiz
 // Designer: Fawei Zhang
 // Date: 11/25/2015
-// Checks whether the number between 100 and 200 is prime
+// Find how many 1-bits exsits in the 32-bit number.
 
 #include <stdio.h>
 #include <stdlib.h>
