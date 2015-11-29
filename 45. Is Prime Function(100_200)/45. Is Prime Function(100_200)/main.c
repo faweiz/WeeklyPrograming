@@ -1,4 +1,4 @@
-// C:Weekly programming 44. Is Prime Function: Test whether a number is prime
+// C:Weekly programming 45. Is Prime Function(100_200)
 // https://github.com/faweiz
 // https://portfolium.com/faweiz
 // https://www.linkedin.com/in/faweiz
