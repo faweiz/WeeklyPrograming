@@ -14,7 +14,7 @@ int main()
     unsigned int n = 33;
     int parity = 0;
     int counter = 0;
-    printf("The 1 bit in %d", n);
+    printf("The total number of 1-bit in %d", n);
     while(n)
     {
         parity =! parity;
